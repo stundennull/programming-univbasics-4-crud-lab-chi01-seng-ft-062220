@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  waveforms = [1, 2, 3, 4, 5]
-  waveforms.pop(5)
+  waveforms = ["arrays!", "wow"]
+  waveforms.pop("wow")
   
 end
 
