@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   waveforms = ["arrays!", "wow"]
-  waveforms.pop("wow")
+  waveforms.pop[1]
   
 end
 
